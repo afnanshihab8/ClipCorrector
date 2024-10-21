@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "azure-video-app",
+  "private_key_id": "0216a1eb35f6dd18342a0b3cddcd6496f8fe2120",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCKp6UVuL1l8GcO\neZpLxoUhEny84M6/8B3ZGdZdzcCoVuZpqUjpzqjT2z9AIhhPM9u0QLsuj+1ojPpB\nCuu1yNOW5nVVZ30wZ/Ku73GAfsF5iRVVSj5P3Jc2qJ7PVoknbQEhS6bxdrNJTjZD\nIBxmZJVwF12ooD/Je4ntN5Ec75G0fbU2VGkhW3Bg+NKCd20tewKZxWOROZZsYMyS\nurrVFKDxkt/4UMwIK4QDDBtlmjMKx3111hqFYsIEjv8xMcP0oFidLesIjFVI2dTK\nWdZ/OTXbUlnRtwMVuDlkHlW9ncpeff4zY0S38j4r4QIyxyqVphU5y6YanfMRLjaA\nfJ7y2wFDAgMBAAECggEADDdE9ir2lNqfWckg7PgqloVYdBOiY4q2NoBuQIl2Jd6y\nIjEF+YN5oGC6q93VInVBMBpb43hOxF1XVw+tQLDW436ea83YW8FswjjaWSXRyfFn\n7cHCx6p5sBkfFMldABo8dUCDDtcUaKr5YOSdW/AUsnF8kPS9afT2a+3vXQtGXQ5t\nCwJ4t/8yVWe7D8/Se6SKSoNfM/nEEqv/rZtItQXBBzQFfK+fIwoNzyMRqsR6FvPx\n+xgL9X7/uzZPQsFT6loPkV4hQCy6mXOXhtMAi23g7c3qUFQmZAUCC/NtL2t6pePv\nshACYMHBbAuGt/SSpdd5DLyoiuazg8CvBImWRXZEQQKBgQC/VbvM2mKEWxeGXa1u\nvenywlBVpjVyBJKZtW0zLff3rxfX9q3KkzfsBJ5Nskuim6OIxQUGpPlMT4nAmxCL\n2s+aBpNUBGZDw8O23PNyEw0Cfo+x72BgN4cqciwLErdaoLDZfy6emXQk6hzZc6YG\nHjpr1FyyQAyBK8sX3N8kmosycwKBgQC5hArsJrLxq9+uPJpc/D70CkgyvxR0uWG8\nU1+ERQTOSGALQYVlii4rUPHkJFvqdn+w/KGXON2RRnFnrwVYkcqhLJBddCThoNUq\nJVRUtU818qtrCxuMP6uaHqlDW9zbVIUosbxjZxwyAW+endHXesjoFDi3ZehTjLR8\n2EKj+ZWx8QKBgE/mlY5uhEWRZLmP1SUx2ciurK2XwyniDvZxdTCyOaMNU3+0W88E\nu42sQA9iLYOySxCKdhbYPeNIM9Zi6v38WkWQCWZEkBAsaEas7lzs57nq8Eb2F+EW\nTzPCifH11uvZvwCUw/snSgFAYtvMF8DmTq9I94zYgmBO0Xkdm3HFt+tRAoGATOHE\nBQokrrMkB/lln5OKI2j/cshtmdIaBwomU5Km4zZrVz7YIbSaXak2Fe5biVeCo76O\n2TTf3gzrgqSt+n6xEwp86b3wavFUZhsCT/iz0w+2qq33xK++VijOzPONG/hzFuJR\nyIA61x5xO7L7++kOyd9Xgenh1n5BblvRglM1DoECgYAztOJJM6UoEeb6ChunBKLg\nWrJTV6tQhyIFMGbeNrzYNBgd6sGGe8PQ/4lLrRYjVcNmUZ0LG8HBp8TLZLefILE/\n75seBp6RoScfBox3RUHfyBMEJ6679YytcJDQz2BNyuKHlH4AiARJooROfd8nnFgd\nrEJG8RKePzJp9JgU8bN9Hw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "azurevideo@azure-video-app.iam.gserviceaccount.com",
+  "client_id": "112641463989572253936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/azurevideo%40azure-video-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
