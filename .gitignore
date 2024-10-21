@@ -1,0 +1,9 @@
+# Ignore sensitive files
+azure-video-app-0216a1eb35f6.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore other files and directories
+*.log
