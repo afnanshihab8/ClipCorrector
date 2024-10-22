@@ -1,0 +1,8 @@
+moviepy
+pydub
+google-cloud-speech
+google-cloud-texttospeech
+google-cloud-storage
+requests
+openai
+streamlit
